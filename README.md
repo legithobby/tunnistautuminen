@@ -59,6 +59,5 @@ mPollux DigiSign client 4.3.2.8863 (64-bit) Fujitsu Finland Oy
 
 **Selaimet:**
 
-Firefox 137.0 (64-bit)
-
+Firefox 137.0 (64-bit)  
 Google Chrome version 135.0.7049.84 (Official Build) (64-bit)
