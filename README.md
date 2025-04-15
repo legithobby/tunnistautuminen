@@ -23,7 +23,7 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 **Selaimet:**
 
-Google Chrome version 135.0.7049.85 (Official Build) (64-bit)
+Google Chrome version 135.0.7049.85 (Official Build) (64-bit)  
 Firefox 137.0.1 (64-bit)
 <br>
 #### Windows 10 64-bit  22H2 ( OS Build 19045.5737 )
@@ -39,8 +39,7 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 **Selaimet:**
 
-Google Chrome version 135.0.7049.85 (Official Build) (64-bit)
-
+Google Chrome version 135.0.7049.85 (Official Build) (64-bit)  
 Firefox 137.0.1 (64-bit)
 <br>
 #### Linux Mint
@@ -50,8 +49,7 @@ mPollux DigiSign client 4.3.2.8863 (64-bit) Fujitsu Finland Oy
 
 **Selaimet:**
 
-Firefox 137.0.1 (64-bit)
-
+Firefox 137.0.1 (64-bit)  
 Google Chrome version 135.0.7049.84 (Official Build) (64-bit)
 <br>
 #### Fedora 41
